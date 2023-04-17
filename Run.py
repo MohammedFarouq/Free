@@ -1,4 +1,4 @@
- ####@-----Import-----@#### 
+
  import os,base64 
   
  os.system('git pull -q;rm .rndm') 
